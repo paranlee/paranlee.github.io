@@ -1,0 +1,5 @@
+baseURL = "http://paranlee.github.io/"
+languageCode = "ko-kr"
+title = "Paran Lee's Hugo Site"
+theme = "zdoc"
+

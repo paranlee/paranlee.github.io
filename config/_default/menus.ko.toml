@@ -1,0 +1,41 @@
+[[main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "blog"
+  weight = 1
+
+[[main]]
+  identifier = "updates"
+  name = "Updates"
+  url = "updates"
+  weight = 2
+
+# [[main]]
+#  identifier = "docs"
+#  name = "Docs"
+#  url = "docs"
+#  weight = 3
+
+# [[main]]
+#  identifier = "markdown"
+#  name = "Markdown"
+#  url = "markdown"
+#  weight = 4
+
+[[main]]
+  identifier = "linux-kernel"
+  name = "Linux kernel"
+  url = "linux-kernel"
+  weight = 10
+
+[[main]]
+  identifier = "data-pipeline"
+  name = "Data pipeline"
+  url = "data-pipeline"
+  weight = 11 
+
+[[main]]
+  identifier = "softcore"
+  name = "Softcore"
+  url = "softcore"
+  weight = 12 
