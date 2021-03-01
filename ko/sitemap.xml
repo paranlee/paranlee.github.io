@@ -3,44 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://paranlee.github.io/updates/2019_may/</loc>
-    <lastmod>2020-01-28T00:10:51+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/gettingstarted/basicusage/</loc>
-    <lastmod>2020-01-28T00:34:51+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
     <loc>https://paranlee.github.io/docs/gettingstarted/basicusage/</loc>
     <lastmod>2020-01-28T00:34:51+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/gettingstarted/basicusage/</loc>
-    <lastmod>2020-01-28T00:34:51+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/gettingstarted/basicusage/</loc>
-    <lastmod>2020-01-28T00:34:51+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/updates/2019_april/</loc>
-    <lastmod>2020-01-28T00:10:48+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/gettingstarted/configuration/</loc>
-    <lastmod>2020-01-28T00:34:56+09:00</lastmod>
+    <loc>https://paranlee.github.io/updates/2021_march/</loc>
+    <lastmod>2020-03-31T00:10:42+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -51,26 +21,8 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/gettingstarted/configuration/</loc>
-    <lastmod>2020-01-28T00:34:56+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/gettingstarted/configuration/</loc>
-    <lastmod>2020-01-28T00:34:56+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/updates/2019_march/</loc>
-    <lastmod>2020-01-28T00:10:42+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/gettingstarted/installation/</loc>
-    <lastmod>2020-01-28T00:34:13+09:00</lastmod>
+    <loc>https://paranlee.github.io/updates/2021_february/</loc>
+    <lastmod>2021-02-28T00:10:37+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -81,26 +33,8 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/gettingstarted/installation/</loc>
-    <lastmod>2020-01-28T00:34:13+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/gettingstarted/installation/</loc>
-    <lastmod>2020-01-28T00:34:13+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/updates/2019_february/</loc>
-    <lastmod>2020-01-28T00:10:37+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/gettingstarted/quickstart/</loc>
-    <lastmod>2020-01-28T00:34:41+09:00</lastmod>
+    <loc>https://paranlee.github.io/updates/2021_january/</loc>
+    <lastmod>2021-01-31T00:10:09+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -111,26 +45,14 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/gettingstarted/quickstart/</loc>
-    <lastmod>2020-01-28T00:34:41+09:00</lastmod>
+    <loc>https://paranlee.github.io/data-pipeline/bloom-filter/</loc>
+    <lastmod>2021-03-01T00:36:39+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/softcore/gettingstarted/quickstart/</loc>
-    <lastmod>2020-01-28T00:34:41+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/updates/2019_january/</loc>
-    <lastmod>2020-01-28T00:10:09+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/gettingstarted/</loc>
-    <lastmod>2020-01-28T00:34:39+09:00</lastmod>
+    <loc>https://paranlee.github.io/linux-kernel/linux-kernel-version/</loc>
+    <lastmod>2021-03-01T00:36:39+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -141,31 +63,13 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/gettingstarted/</loc>
-    <lastmod>2020-01-28T00:34:39+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/gettingstarted/</loc>
-    <lastmod>2020-01-28T00:34:39+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/contentmanagement/</loc>
-    <lastmod>2020-01-28T00:36:39+09:00</lastmod>
+    <loc>https://paranlee.github.io/linux-kernel/user-mode-linux/</loc>
+    <lastmod>2021-03-01T00:34:39+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
   <url>
     <loc>https://paranlee.github.io/docs/contentmanagement/</loc>
-    <lastmod>2020-01-28T00:36:39+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/linux-kernel/contentmanagement/</loc>
     <lastmod>2020-01-28T00:36:39+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
@@ -177,32 +81,96 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/data-pipeline/relatedcontent/</loc>
-    <lastmod>2020-01-28T00:39:09+09:00</lastmod>
+    <loc>https://paranlee.github.io/linux-kernel/</loc>
+    <lastmod>2021-03-01T14:09:21+09:00</lastmod>
     <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/tags/css/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paranlee.github.io/en/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://paranlee.github.io/tags/css/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/tags/html/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paranlee.github.io/en/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://paranlee.github.io/tags/html/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-sandbox/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/linux-kernel/linux-kernel-version/slts/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/tags/markdown/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paranlee.github.io/en/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://paranlee.github.io/tags/markdown/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/data-pipeline/bloom-filter/overview/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/tags/themes/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://paranlee.github.io/en/tags/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://paranlee.github.io/tags/themes/"
+                />
   </url>
   
   <url>
     <loc>https://paranlee.github.io/docs/relatedcontent/</loc>
     <lastmod>2020-01-28T00:39:09+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/linux-kernel/relatedcontent/</loc>
-    <lastmod>2020-01-28T00:39:09+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/relatedcontent/</loc>
-    <lastmod>2020-01-28T00:39:09+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/pageresources/</loc>
-    <lastmod>2020-01-28T00:39:06+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -213,44 +181,8 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/pageresources/</loc>
-    <lastmod>2020-01-28T00:39:06+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/pageresources/</loc>
-    <lastmod>2020-01-28T00:39:06+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/pagebundles/</loc>
-    <lastmod>2020-01-28T00:38:59+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
     <loc>https://paranlee.github.io/docs/pagebundles/</loc>
     <lastmod>2020-01-28T00:38:59+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/linux-kernel/pagebundles/</loc>
-    <lastmod>2020-01-28T00:38:59+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/pagebundles/</loc>
-    <lastmod>2020-01-28T00:38:59+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/contentfortmats/</loc>
-    <lastmod>2020-01-28T00:38:51+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -261,44 +193,8 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/contentfortmats/</loc>
-    <lastmod>2020-01-28T00:38:51+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/contentfortmats/</loc>
-    <lastmod>2020-01-28T00:38:51+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/imageprocessing/</loc>
-    <lastmod>2020-01-28T00:38:48+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
     <loc>https://paranlee.github.io/docs/imageprocessing/</loc>
     <lastmod>2020-01-28T00:38:48+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/linux-kernel/imageprocessing/</loc>
-    <lastmod>2020-01-28T00:38:48+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/imageprocessing/</loc>
-    <lastmod>2020-01-28T00:38:48+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/contentmanagement/shortcodes/</loc>
-    <lastmod>2020-01-28T00:36:19+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -309,37 +205,7 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/contentmanagement/shortcodes/</loc>
-    <lastmod>2020-01-28T00:36:19+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/contentmanagement/shortcodes/</loc>
-    <lastmod>2020-01-28T00:36:19+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/data-pipeline/contentmanagement/frontmatter/</loc>
-    <lastmod>2020-01-28T00:36:14+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
     <loc>https://paranlee.github.io/docs/contentmanagement/frontmatter/</loc>
-    <lastmod>2020-01-28T00:36:14+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/linux-kernel/contentmanagement/frontmatter/</loc>
-    <lastmod>2020-01-28T00:36:14+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/contentmanagement/frontmatter/</loc>
     <lastmod>2020-01-28T00:36:14+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
@@ -379,12 +245,6 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/</loc>
-    <lastmod>2020-01-11T14:09:21+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
     <loc>https://paranlee.github.io/softcore/</loc>
     <lastmod>2020-01-11T14:09:21+09:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -397,57 +257,9 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paranlee.github.io/en/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://paranlee.github.io/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paranlee.github.io/en/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://paranlee.github.io/tags/html/"
-                />
-  </url>
-  
-  <url>
     <loc>https://paranlee.github.io/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paranlee.github.io/en/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://paranlee.github.io/tags/markdown/"
-                />
   </url>
   
   <url>
@@ -463,19 +275,7 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/data-pipeline/contentmanagement/sections/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
     <loc>https://paranlee.github.io/docs/contentmanagement/sections/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/linux-kernel/contentmanagement/sections/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
@@ -484,22 +284,6 @@
     <loc>https://paranlee.github.io/softcore/contentmanagement/sections/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paranlee.github.io/en/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://paranlee.github.io/tags/themes/"
-                />
   </url>
   
   <url>

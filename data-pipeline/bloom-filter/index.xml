@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bloom filter on Paran Lee&#39;s docs</title>
+    <link>https://paranlee.github.io/data-pipeline/bloom-filter/</link>
+    <description>Recent content in Bloom filter on Paran Lee&#39;s docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 01 Mar 2021 00:36:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://paranlee.github.io/data-pipeline/bloom-filter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>overview</title>
+        <link>https://paranlee.github.io/data-pipeline/bloom-filter/overview/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/data-pipeline/bloom-filter/overview/</guid>
+        <description>&lt;h2 id=&#34;why&#34;&gt;why?&lt;/h2&gt;
+&lt;p&gt;왜 Join 에서 nested loop (반복문 중첩) 대신 사용할까?&lt;/p&gt;</description>
+      </item>
+      
+    
+  </channel>
+</rss>

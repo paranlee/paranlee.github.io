@@ -15,24 +15,6 @@
     
       
       <item>
-        <title>May 2019</title>
-        <link>https://paranlee.github.io/updates/2019_may/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/updates/2019_may/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Basic Usage</title>
-        <link>https://paranlee.github.io/data-pipeline/gettingstarted/basicusage/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/gettingstarted/basicusage/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
         <title>Basic Usage</title>
         <link>https://paranlee.github.io/docs/gettingstarted/basicusage/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
@@ -42,38 +24,11 @@
       </item>
       
       <item>
-        <title>Basic Usage</title>
-        <link>https://paranlee.github.io/linux-kernel/gettingstarted/basicusage/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
+        <title>March 2021</title>
+        <link>https://paranlee.github.io/updates/2021_march/</link>
+        <pubDate>Tue, 31 Mar 2020 00:10:42 +0900</pubDate>
         
-        <guid>https://paranlee.github.io/linux-kernel/gettingstarted/basicusage/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Basic Usage</title>
-        <link>https://paranlee.github.io/softcore/gettingstarted/basicusage/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/softcore/gettingstarted/basicusage/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>April 2019</title>
-        <link>https://paranlee.github.io/updates/2019_april/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:48 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/updates/2019_april/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Configuration</title>
-        <link>https://paranlee.github.io/data-pipeline/gettingstarted/configuration/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/gettingstarted/configuration/</guid>
+        <guid>https://paranlee.github.io/updates/2021_march/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -87,38 +42,11 @@
       </item>
       
       <item>
-        <title>Configuration</title>
-        <link>https://paranlee.github.io/linux-kernel/gettingstarted/configuration/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
+        <title>February 2021</title>
+        <link>https://paranlee.github.io/updates/2021_february/</link>
+        <pubDate>Sun, 28 Feb 2021 00:10:37 +0900</pubDate>
         
-        <guid>https://paranlee.github.io/linux-kernel/gettingstarted/configuration/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Configuration</title>
-        <link>https://paranlee.github.io/softcore/gettingstarted/configuration/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/softcore/gettingstarted/configuration/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>March 2019</title>
-        <link>https://paranlee.github.io/updates/2019_march/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:42 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/updates/2019_march/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Installation</title>
-        <link>https://paranlee.github.io/data-pipeline/gettingstarted/installation/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/gettingstarted/installation/</guid>
+        <guid>https://paranlee.github.io/updates/2021_february/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -132,38 +60,11 @@
       </item>
       
       <item>
-        <title>Installation</title>
-        <link>https://paranlee.github.io/linux-kernel/gettingstarted/installation/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
+        <title>January 2021</title>
+        <link>https://paranlee.github.io/updates/2021_january/</link>
+        <pubDate>Sun, 31 Jan 2021 00:10:09 +0900</pubDate>
         
-        <guid>https://paranlee.github.io/linux-kernel/gettingstarted/installation/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Installation</title>
-        <link>https://paranlee.github.io/softcore/gettingstarted/installation/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/softcore/gettingstarted/installation/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>February 2019</title>
-        <link>https://paranlee.github.io/updates/2019_february/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/updates/2019_february/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Quick Start</title>
-        <link>https://paranlee.github.io/data-pipeline/gettingstarted/quickstart/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/gettingstarted/quickstart/</guid>
+        <guid>https://paranlee.github.io/updates/2021_january/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -177,39 +78,38 @@
       </item>
       
       <item>
-        <title>Quick Start</title>
-        <link>https://paranlee.github.io/linux-kernel/gettingstarted/quickstart/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
+        <title>Linux kernel in sandbox</title>
+        <link>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-sandbox/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://paranlee.github.io/linux-kernel/gettingstarted/quickstart/</guid>
-        <description>Markdown here</description>
+        <guid>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-sandbox/</guid>
+        <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;리눅스 커널 소스를 클론하고, 응용프로그램 다루듯이 마음껏 뽀개도록,&lt;/p&gt;
+&lt;p&gt;User mode linux 라는 feature 를 사용하려고 합니다.&lt;/p&gt;</description>
       </item>
       
       <item>
-        <title>Quick Start</title>
-        <link>https://paranlee.github.io/softcore/gettingstarted/quickstart/</link>
-        <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
+        <title>linux kernel version</title>
+        <link>https://paranlee.github.io/linux-kernel/linux-kernel-version/slts/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://paranlee.github.io/softcore/gettingstarted/quickstart/</guid>
-        <description>Markdown here</description>
+        <guid>https://paranlee.github.io/linux-kernel/linux-kernel-version/slts/</guid>
+        <description>Overview 리눅스 4.4 &amp;amp; 4.19 는 현재도 현역 커널로 활동중입니다.1
+이 두 버전은 SLTS (Super Long Term Support) 로 현재까지도 vanilla Linux kernel upstream 에서 유지보수하는 커널 버전이기 때문입니다.
+해당 커널 버전은 송전, 정유, 가스 시설 등등&amp;hellip; 우리 도시를 이루는 핵심 인프라에서 사용하기 때문이죠.
+커널 소스 태그에서 보시거나
+bootlin에 들어가셔서 릴리즈 번호를 보면 아마 깜짝 놀라실 겁니다.
+다음번 SLTS 는 언제 나오나요? Debian 11  Debian 11 for release, began on 13 January 2021.</description>
       </item>
       
       <item>
-        <title>January 2019</title>
-        <link>https://paranlee.github.io/updates/2019_january/</link>
-        <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
+        <title>overview</title>
+        <link>https://paranlee.github.io/data-pipeline/bloom-filter/overview/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://paranlee.github.io/updates/2019_january/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Related content</title>
-        <link>https://paranlee.github.io/data-pipeline/relatedcontent/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/relatedcontent/</guid>
-        <description>Markdown here</description>
+        <guid>https://paranlee.github.io/data-pipeline/bloom-filter/overview/</guid>
+        <description>&lt;h2 id=&#34;why&#34;&gt;why?&lt;/h2&gt;
+&lt;p&gt;왜 Join 에서 nested loop (반복문 중첩) 대신 사용할까?&lt;/p&gt;</description>
       </item>
       
       <item>
@@ -218,33 +118,6 @@
         <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
         
         <guid>https://paranlee.github.io/docs/relatedcontent/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Related content</title>
-        <link>https://paranlee.github.io/linux-kernel/relatedcontent/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/linux-kernel/relatedcontent/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Related content</title>
-        <link>https://paranlee.github.io/softcore/relatedcontent/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/softcore/relatedcontent/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Resources</title>
-        <link>https://paranlee.github.io/data-pipeline/pageresources/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/pageresources/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -258,65 +131,11 @@
       </item>
       
       <item>
-        <title>Page Resources</title>
-        <link>https://paranlee.github.io/linux-kernel/pageresources/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/linux-kernel/pageresources/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Resources</title>
-        <link>https://paranlee.github.io/softcore/pageresources/</link>
-        <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/softcore/pageresources/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Bundles</title>
-        <link>https://paranlee.github.io/data-pipeline/pagebundles/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/pagebundles/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
         <title>Page Bundles</title>
         <link>https://paranlee.github.io/docs/pagebundles/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
         
         <guid>https://paranlee.github.io/docs/pagebundles/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Bundles</title>
-        <link>https://paranlee.github.io/linux-kernel/pagebundles/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/linux-kernel/pagebundles/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Page Bundles</title>
-        <link>https://paranlee.github.io/softcore/pagebundles/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/softcore/pagebundles/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Content Formats</title>
-        <link>https://paranlee.github.io/data-pipeline/contentfortmats/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/contentfortmats/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -330,65 +149,11 @@
       </item>
       
       <item>
-        <title>Content Formats</title>
-        <link>https://paranlee.github.io/linux-kernel/contentfortmats/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/linux-kernel/contentfortmats/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Content Formats</title>
-        <link>https://paranlee.github.io/softcore/contentfortmats/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/softcore/contentfortmats/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Image Processing</title>
-        <link>https://paranlee.github.io/data-pipeline/imageprocessing/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/imageprocessing/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
         <title>Image Processing</title>
         <link>https://paranlee.github.io/docs/imageprocessing/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
         
         <guid>https://paranlee.github.io/docs/imageprocessing/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Image Processing</title>
-        <link>https://paranlee.github.io/linux-kernel/imageprocessing/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/linux-kernel/imageprocessing/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Image Processing</title>
-        <link>https://paranlee.github.io/softcore/imageprocessing/</link>
-        <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/softcore/imageprocessing/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Shortcodes</title>
-        <link>https://paranlee.github.io/data-pipeline/contentmanagement/shortcodes/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/contentmanagement/shortcodes/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -402,56 +167,11 @@
       </item>
       
       <item>
-        <title>Shortcodes</title>
-        <link>https://paranlee.github.io/linux-kernel/contentmanagement/shortcodes/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/linux-kernel/contentmanagement/shortcodes/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Shortcodes</title>
-        <link>https://paranlee.github.io/softcore/contentmanagement/shortcodes/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/softcore/contentmanagement/shortcodes/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Frontmatter</title>
-        <link>https://paranlee.github.io/data-pipeline/contentmanagement/frontmatter/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/contentmanagement/frontmatter/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
         <title>Frontmatter</title>
         <link>https://paranlee.github.io/docs/contentmanagement/frontmatter/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
         
         <guid>https://paranlee.github.io/docs/contentmanagement/frontmatter/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Frontmatter</title>
-        <link>https://paranlee.github.io/linux-kernel/contentmanagement/frontmatter/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/linux-kernel/contentmanagement/frontmatter/</guid>
-        <description>Markdown here</description>
-      </item>
-      
-      <item>
-        <title>Frontmatter</title>
-        <link>https://paranlee.github.io/softcore/contentmanagement/frontmatter/</link>
-        <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
-        
-        <guid>https://paranlee.github.io/softcore/contentmanagement/frontmatter/</guid>
         <description>Markdown here</description>
       </item>
       
@@ -481,28 +201,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Section</title>
-        <link>https://paranlee.github.io/data-pipeline/contentmanagement/sections/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/contentmanagement/sections/</guid>
-        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Section</title>
         <link>https://paranlee.github.io/docs/contentmanagement/sections/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://paranlee.github.io/docs/contentmanagement/sections/</guid>
-        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Section</title>
-        <link>https://paranlee.github.io/linux-kernel/contentmanagement/sections/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://paranlee.github.io/linux-kernel/contentmanagement/sections/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       

@@ -7,12 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://paranlee.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Linux kernel in sandbox</title>
+        <link>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-sandbox/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-sandbox/</guid>
+        <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;리눅스 커널 소스를 클론하고, 응용프로그램 다루듯이 마음껏 뽀개도록,&lt;/p&gt;
+&lt;p&gt;User mode linux 라는 feature 를 사용하려고 합니다.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>linux kernel version</title>
+        <link>https://paranlee.github.io/linux-kernel/linux-kernel-version/slts/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/linux-kernel/linux-kernel-version/slts/</guid>
+        <description>Overview 리눅스 4.4 &amp;amp; 4.19 는 현재도 현역 커널로 활동중입니다.1
+이 두 버전은 SLTS (Super Long Term Support) 로 현재까지도 vanilla Linux kernel upstream 에서 유지보수하는 커널 버전이기 때문입니다.
+해당 커널 버전은 송전, 정유, 가스 시설 등등&amp;hellip; 우리 도시를 이루는 핵심 인프라에서 사용하기 때문이죠.
+커널 소스 태그에서 보시거나
+bootlin에 들어가셔서 릴리즈 번호를 보면 아마 깜짝 놀라실 겁니다.
+다음번 SLTS 는 언제 나오나요? Debian 11  Debian 11 for release, began on 13 January 2021.</description>
+      </item>
+      
+      <item>
+        <title>overview</title>
+        <link>https://paranlee.github.io/data-pipeline/bloom-filter/overview/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/data-pipeline/bloom-filter/overview/</guid>
+        <description>&lt;h2 id=&#34;why&#34;&gt;why?&lt;/h2&gt;
+&lt;p&gt;왜 Join 에서 nested loop (반복문 중첩) 대신 사용할까?&lt;/p&gt;</description>
+      </item>
       
       <item>
         <title>Markdown Syntax Guide</title>
@@ -40,28 +75,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Section</title>
-        <link>https://paranlee.github.io/data-pipeline/contentmanagement/sections/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/contentmanagement/sections/</guid>
-        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Section</title>
         <link>https://paranlee.github.io/docs/contentmanagement/sections/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://paranlee.github.io/docs/contentmanagement/sections/</guid>
-        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Section</title>
-        <link>https://paranlee.github.io/linux-kernel/contentmanagement/sections/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://paranlee.github.io/linux-kernel/contentmanagement/sections/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       

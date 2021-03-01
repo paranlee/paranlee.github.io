@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User mode linux on Paran Lee&#39;s docs</title>
+    <link>https://paranlee.github.io/linux-kernel/user-mode-linux/</link>
+    <description>Recent content in User mode linux on Paran Lee&#39;s docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 01 Mar 2021 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://paranlee.github.io/linux-kernel/user-mode-linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Linux kernel in sandbox</title>
+        <link>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-sandbox/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-sandbox/</guid>
+        <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;리눅스 커널 소스를 클론하고, 응용프로그램 다루듯이 마음껏 뽀개도록,&lt;/p&gt;
+&lt;p&gt;User mode linux 라는 feature 를 사용하려고 합니다.&lt;/p&gt;</description>
+      </item>
+      
+    
+  </channel>
+</rss>
