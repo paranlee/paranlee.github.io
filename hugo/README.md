@@ -1,2 +1,3 @@
 # paranlee.github.io
-Hello, World!
+
+This driectory is a silo for the Hugo website.
