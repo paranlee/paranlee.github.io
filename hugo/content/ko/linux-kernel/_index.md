@@ -1,8 +1,8 @@
 ---
 title: "Linux kernel"
 description: "test post index"
-date: 2020-01-11T14:09:21+09:00
+date: 2021-03-01T14:09:21+09:00
 draft: false
 ---
 
-Docs page.
+Linux kernel research note.

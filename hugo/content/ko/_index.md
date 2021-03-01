@@ -28,7 +28,7 @@ sections:
     description: "관심 있어 찾아보고 새로 알게 된 내용을 정리합니다."
     header: 
       title: Interests 😚
-      hlcolor: "#8bc34a"
+      hlcolor: BlueViolet
       color: '#fff'
       fontSize: 32
       width: 210 
@@ -74,16 +74,16 @@ sections:
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id eleifend erat. Integer eget mattis augue. Suspendisse semper laoreet tortor sed convallis. Nulla ac euismod lorem"
     header:
       title: I love opensource! 😘
-      hlcolor: DarkKhaki
+      hlcolor: HotPink 
       color: "#fff"
       fontSize: 32
       width: 370
     body:
-      subtitle: 지식 공유는 우리 모두의 힘이 됩니다.
+      subtitle: 지식의 공유로 더 좋은 지식이 나와요.
       subtitlePosition: left
       description: " 같이 해요. \n commit, push, pull request!"
       color: white
-      image: images/section/root-server.png
+      image: images/section/GPLv3_Logo.svg
       imagePosition: left
 
 footer:

@@ -1,8 +1,8 @@
 ---
 title: "Data pipeline"
-description: "test post index"
+description: "Cloud & DB & Workflows for data pipeline"
 date: 2020-01-11T14:09:21+09:00
 draft: false
 ---
 
-Docs page.
+Data pipeline research note.
