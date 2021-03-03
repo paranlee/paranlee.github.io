@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Paran Lee"
 title = "linux kernel version"
 date = "2021-03-01"
 description = "Linux kernel version 그리고 (Super) Long Term Support"
@@ -23,7 +23,7 @@ series = ["Linux kernel"]
 
 해당 커널 버전은 송전, 정유, 가스 시설 등등... 우리 도시를 이루는 핵심 인프라에서 사용하기 때문이죠.
 
-[커널 소스 태그](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/)에서 보시거나
+SLTS 에 해당하는 버전들을 [커널 소스 태그](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/)에서나
 [bootlin](https://elixir.bootlin.com/)에 들어가셔서 릴리즈 번호를 보면 아마 깜짝 놀라실 겁니다.
 
 ## 다음번 SLTS 는 언제 나오나요?

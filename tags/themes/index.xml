@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://paranlee.github.io/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,14 +15,13 @@
     
       
       <item>
-        <title>Linux kernel in sandbox</title>
-        <link>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-sandbox/</link>
-        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        <title>Linux kernel cross compile arm64 on x86_64 machine</title>
+        <link>https://paranlee.github.io/linux-kernel/linux-kernel-cross-compile/linux-kernel-cross-compile-arm64/</link>
+        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-sandbox/</guid>
+        <guid>https://paranlee.github.io/linux-kernel/linux-kernel-cross-compile/linux-kernel-cross-compile-arm64/</guid>
         <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;리눅스 커널 소스를 클론하고, 응용프로그램 다루듯이 마음껏 뽀개도록,&lt;/p&gt;
-&lt;p&gt;User mode linux 라는 feature 를 사용하려고 합니다.&lt;/p&gt;</description>
+&lt;p&gt;x86_64 머신에서 arm64 리눅스 커널을 빌드합니다.&lt;/p&gt;</description>
       </item>
       
       <item>
@@ -34,9 +33,20 @@
         <description>Overview 리눅스 4.4 &amp;amp; 4.19 는 현재도 현역 커널로 활동중입니다.1
 이 두 버전은 SLTS (Super Long Term Support) 로 현재까지도 vanilla Linux kernel upstream 에서 유지보수하는 커널 버전이기 때문입니다.
 해당 커널 버전은 송전, 정유, 가스 시설 등등&amp;hellip; 우리 도시를 이루는 핵심 인프라에서 사용하기 때문이죠.
-커널 소스 태그에서 보시거나
+SLTS 에 해당하는 버전들을 커널 소스 태그에서나
 bootlin에 들어가셔서 릴리즈 번호를 보면 아마 깜짝 놀라실 겁니다.
 다음번 SLTS 는 언제 나오나요? Debian 11  Debian 11 for release, began on 13 January 2021.</description>
+      </item>
+      
+      <item>
+        <title>Linux kernel {x86_64, arm64} in the sandbox</title>
+        <link>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-the-sandbox-arch/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-the-sandbox-arch/</guid>
+        <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;리눅스 커널 소스를 클론하고, 응용프로그램 다루듯이 마음껏 뽀개도록,&lt;/p&gt;
+&lt;p&gt;User mode linux 라는 feature 를 사용하려고 합니다.&lt;/p&gt;</description>
       </item>
       
       <item>

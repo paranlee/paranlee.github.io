@@ -23,7 +23,7 @@
         <description>Overview 리눅스 4.4 &amp;amp; 4.19 는 현재도 현역 커널로 활동중입니다.1
 이 두 버전은 SLTS (Super Long Term Support) 로 현재까지도 vanilla Linux kernel upstream 에서 유지보수하는 커널 버전이기 때문입니다.
 해당 커널 버전은 송전, 정유, 가스 시설 등등&amp;hellip; 우리 도시를 이루는 핵심 인프라에서 사용하기 때문이죠.
-커널 소스 태그에서 보시거나
+SLTS 에 해당하는 버전들을 커널 소스 태그에서나
 bootlin에 들어가셔서 릴리즈 번호를 보면 아마 깜짝 놀라실 겁니다.
 다음번 SLTS 는 언제 나오나요? Debian 11  Debian 11 for release, began on 13 January 2021.</description>
       </item>
