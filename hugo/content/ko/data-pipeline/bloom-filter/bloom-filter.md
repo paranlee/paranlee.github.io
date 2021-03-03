@@ -1,8 +1,8 @@
 +++
-author = "Hugo Authors"
+author = "Paran Lee"
 title = "overview"
 date = "2021-03-01"
-description = "SQL Join 시 빠르게 동작하는 확률적 자료구조"
+description = "hash 기반 Join 시 빠르게 동작하는 확률적 자료구조"
 tags = [
     "markdown",
     "css",
@@ -53,15 +53,3 @@ struct bloom
   int ready;
 };
 {{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-
-<!--more-->

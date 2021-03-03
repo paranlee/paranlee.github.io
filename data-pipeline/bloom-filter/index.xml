@@ -16,10 +16,10 @@
       
       <item>
         <title>overview</title>
-        <link>https://paranlee.github.io/data-pipeline/bloom-filter/overview/</link>
+        <link>https://paranlee.github.io/data-pipeline/bloom-filter/bloom-filter/</link>
         <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://paranlee.github.io/data-pipeline/bloom-filter/overview/</guid>
+        <guid>https://paranlee.github.io/data-pipeline/bloom-filter/bloom-filter/</guid>
         <description>&lt;h2 id=&#34;why&#34;&gt;why?&lt;/h2&gt;
 &lt;p&gt;왜 Join 에서 nested loop (반복문 중첩) 대신 사용할까?&lt;/p&gt;</description>
       </item>

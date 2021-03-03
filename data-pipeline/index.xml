@@ -15,6 +15,24 @@
     
       
       <item>
+        <title>HA Proxy</title>
+        <link>https://paranlee.github.io/data-pipeline/haproxy/</link>
+        <pubDate>Mon, 01 Mar 2021 00:36:39 +0900</pubDate>
+        
+        <guid>https://paranlee.github.io/data-pipeline/haproxy/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Boxcox transformation, why?</title>
+        <link>https://paranlee.github.io/data-pipeline/boxcox/</link>
+        <pubDate>Mon, 01 Mar 2021 00:36:39 +0900</pubDate>
+        
+        <guid>https://paranlee.github.io/data-pipeline/boxcox/</guid>
+        <description></description>
+      </item>
+      
+      <item>
         <title>Bloom filter</title>
         <link>https://paranlee.github.io/data-pipeline/bloom-filter/</link>
         <pubDate>Mon, 01 Mar 2021 00:36:39 +0900</pubDate>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verilog enviroment setup on Paran Lee&#39;s docs</title>
+    <link>https://paranlee.github.io/softcore/verilog-setup/</link>
+    <description>Recent content in Verilog enviroment setup on Paran Lee&#39;s docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:36:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://paranlee.github.io/softcore/verilog-setup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Verilog enviroment setup</title>
+        <link>https://paranlee.github.io/softcore/verilog-setup/00-overview/</link>
+        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/softcore/verilog-setup/00-overview/</guid>
+        <description>I love Opensource 오픈소스 HDL 을 활용하여 구현하려고 합니다.
+특정 회사의 EDA 에 종속적인 부분은 배제하고 보드없이 소프트웨어 수준에서 배울 수 있는 내용을 정리합니다.
+Todo verilog 코드를 통해서 netlist 를 합성하고 검증하는 하드웨어 디자인 위주로,
+하드웨어 설계와 소프트웨어 설계에는 본질적인 차이가 있기 때문에, 작성한 코드가 어떻게 합성될지,
+같이 고민해보면서 verilog 문법의 특성에 익숙해질 수 있습니다.
+C 문법에 기반한 프로그래밍 언어와 verilog 문법이 비슷하기 때문에, 익숙하면 도움이 됩니다.
+간단한 동작을 하는 CPU의 각 요소를 만들면서 필요한 디자인들을 익혀나가려고 합니다.</description>
+      </item>
+      
+      <item>
+        <title>Install - Icarus verilog</title>
+        <link>https://paranlee.github.io/softcore/verilog-setup/01-icarus-verilog/</link>
+        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/softcore/verilog-setup/01-icarus-verilog/</guid>
+        <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;패키지 업데이트가 비교적 느린편이므로, 성능 &amp;amp; 기능이 우수한 최신 릴리즈를 사용하려고 합니다.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>Install - GTK wave</title>
+        <link>https://paranlee.github.io/softcore/verilog-setup/02-gtk-wave/</link>
+        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/softcore/verilog-setup/02-gtk-wave/</guid>
+        <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;디지털회로 디버깅을 위해서 value change dump 파일로 클록, 입출력 등을 보여주는 GTK Wave 를 설치합니다.&lt;/p&gt;
+&lt;p&gt;이 패키지는 최신 릴리즈가 성능에는 큰 영향이 없다고 생각이 들어서 그냥 패키지 매니저로 설치했습니다.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>Install - Yosys</title>
+        <link>https://paranlee.github.io/softcore/verilog-setup/03-yosys/</link>
+        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/softcore/verilog-setup/03-yosys/</guid>
+        <description>Yosys 설치하기 yosys 는 베릴로그 RTL 합성 툴입니다.
+결과는 게이트를 합성하고 실제 칩의 하드웨어 도면을 볼 수 있습니다.
+yosys 도 기능과 성능이 우수한 최신 릴리즈로 설치합니다.
+(yosys github)[https://github.com/YosysHQ/yosys] setup 항목을 참고하시면 좋습니다.
+Install dependency on ubuntu 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23  $ sudo apt install build-essential clang bison flex \ 	libreadline-dev gawk tcl-dev libffi-dev git \ 	graphviz xdot pkg-config python3 libboost-system-dev \ 	libboost-python-dev libboost-filesystem-dev zlib1g-dev # 위의 패키지 말고도 추가적으로 설치했던 패키지 $ sudo apt install tcl8.</description>
+      </item>
+      
+      <item>
+        <title>Install - NetlistSVG</title>
+        <link>https://paranlee.github.io/softcore/verilog-setup/04-netlist-svg/</link>
+        <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/softcore/verilog-setup/04-netlist-svg/</guid>
+        <description>NetlistSVG 설치하기 베릴로그 코드를 바탕으로 손쉽게 이미지를 만들수 있는 NPM 패키지의 NetlistSVG를 설치합니다.
+node.js &amp;amp; npm &amp;amp; npm 패키지에서 netlistsvg 설치가 필요합니다.
+Node.js 공식 홈페이지에서 바이너리 파일을 받아도 되고, 빌드해도 됩니다.
+깃허브 레포지토에 netlistsvg 를 실행해볼 수 있는 예제가 있습니다.
+netlistsvg install 1 2  $ git clone https://github.com/nturley/netlistsvg $ cd examples   examples 디렉토리 아래에 있는 D flip-flop 예제로 svg 이미지 파일을 만들어보겠습니다.
+예제의 모듈 이름을 DFF에서 dff 소문자로 수정했습니다.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

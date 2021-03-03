@@ -45,20 +45,14 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/data-pipeline/bloom-filter/</loc>
-    <lastmod>2021-03-01T00:36:39+09:00</lastmod>
+    <loc>https://paranlee.github.io/softcore/verilog-setup/00-overview/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/linux-kernel-cross-compile/</loc>
-    <lastmod>2021-03-01T00:36:39+09:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/linux-kernel/linux-kernel-version/</loc>
-    <lastmod>2021-03-01T00:36:39+09:00</lastmod>
+    <loc>https://paranlee.github.io/softcore/verilog-setup/</loc>
+    <lastmod>2020-01-28T00:36:39+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -69,8 +63,8 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/linux-kernel/user-mode-linux/</loc>
-    <lastmod>2021-03-01T00:34:39+09:00</lastmod>
+    <loc>https://paranlee.github.io/softcore/verilog-setup/01-icarus-verilog/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -81,8 +75,50 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/softcore/contentmanagement/</loc>
-    <lastmod>2020-01-28T00:36:39+09:00</lastmod>
+    <loc>https://paranlee.github.io/softcore/verilog-setup/02-gtk-wave/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/softcore/verilog-setup/03-yosys/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/softcore/verilog-setup/04-netlist-svg/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/linux-kernel/linux-kernel-cross-compile/</loc>
+    <lastmod>2021-03-01T00:36:39+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/data-pipeline/haproxy/</loc>
+    <lastmod>2021-03-01T00:36:39+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/linux-kernel/user-mode-linux/</loc>
+    <lastmod>2021-03-01T00:34:39+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/data-pipeline/boxcox/</loc>
+    <lastmod>2021-03-01T00:36:39+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/linux-kernel/linux-kernel-version/</loc>
+    <lastmod>2021-03-01T00:36:39+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -163,6 +199,18 @@
   </url>
   
   <url>
+    <loc>https://paranlee.github.io/data-pipeline/boxcox/boxcox/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/data-pipeline/haproxy/haproxy/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
     <loc>https://paranlee.github.io/linux-kernel/linux-kernel-version/slts/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -175,8 +223,14 @@
   </url>
   
   <url>
-    <loc>https://paranlee.github.io/data-pipeline/bloom-filter/overview/</loc>
+    <loc>https://paranlee.github.io/data-pipeline/bloom-filter/bloom-filter/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/data-pipeline/bloom-filter/</loc>
+    <lastmod>2021-03-01T00:36:39+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   
@@ -288,12 +342,6 @@
   
   <url>
     <loc>https://paranlee.github.io/docs/contentmanagement/sections/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  <url>
-    <loc>https://paranlee.github.io/softcore/contentmanagement/sections/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
