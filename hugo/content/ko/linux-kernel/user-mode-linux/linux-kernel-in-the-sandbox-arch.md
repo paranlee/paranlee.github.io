@@ -55,9 +55,13 @@ git checkout 5.10.19
 {{< highlight bash >}}
 
 # arch setup & debug symbol
+
+$ cat > set.sh
 export CFLAGS="-g -Wall -Wextra"
 export ARCH=um 
-export SUBARCH=x86_64 # export SUBARCH=arm64
+export SUBARCH=x86_64 # arch/arm64/Makefile.um X arm64 안됨 ㅜ export SUBARCH=arm64
+# ctrl + d
+$ source set.sh
 
 {{< /highlight >}}
 
