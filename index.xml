@@ -189,7 +189,7 @@ bootlin에 들어가셔서 릴리즈 번호를 보면 아마 깜짝 놀라실 �
       </item>
       
       <item>
-        <title>Linux kernel {x86_64, arm64} in the sandbox</title>
+        <title>Linux kernel x86_64 in the sandbox</title>
         <link>https://paranlee.github.io/linux-kernel/user-mode-linux/linux-kernel-in-the-sandbox-arch/</link>
         <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
         

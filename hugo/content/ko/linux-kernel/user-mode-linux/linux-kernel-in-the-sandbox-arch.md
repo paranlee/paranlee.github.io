@@ -1,6 +1,6 @@
 +++
 author = "Paran Lee"
-title = "Linux kernel {x86_64, arm64} in the sandbox"
+title = "Linux kernel x86_64 in the sandbox"
 date = "2021-03-01"
 description = "응용프로그램처럼 마음대로 커널 뽀개기"
 tags = [
