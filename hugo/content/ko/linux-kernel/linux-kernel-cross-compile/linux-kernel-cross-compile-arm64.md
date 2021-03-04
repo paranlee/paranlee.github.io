@@ -83,7 +83,7 @@ source setup.sh
 
 그럼 이제 빌드를 합니다.
 
-#### root file system mount
+#### make
 {{< highlight bash >}}
 
 # defulat configuration file create
