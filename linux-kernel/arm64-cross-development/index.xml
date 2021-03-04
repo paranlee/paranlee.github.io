@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QEMU x86_64 machine full virtualized arm64 linux deveolpmet enviroment on Paran Lee&#39;s docs</title>
+    <link>https://paranlee.github.io/linux-kernel/arm64-cross-development/</link>
+    <description>Recent content in QEMU x86_64 machine full virtualized arm64 linux deveolpmet enviroment on Paran Lee&#39;s docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 04 Mar 2021 00:36:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://paranlee.github.io/linux-kernel/arm64-cross-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>QEMU x86_64 machine full virtualized arm64 linux deveolpmet enviroment</title>
+        <link>https://paranlee.github.io/linux-kernel/arm64-cross-development/linux-kernel-cross-compile-arm64/</link>
+        <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/linux-kernel/arm64-cross-development/linux-kernel-cross-compile-arm64/</guid>
+        <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;QEMU 전가상화로 x86_64 리눅스 머신에서 arm64 개발 &amp;amp; 테스트 환경을 구성해봅니다.&lt;/p&gt;
+&lt;p&gt;qemu-arm-aarch64 와 라즈베리파이4 머신 세팅 기반,&lt;/p&gt;
+&lt;p&gt;aarch64 데비안 배포판 이미지 기반으로 네트워크 설정을 하고&lt;/p&gt;
+&lt;p&gt;전가상화 개발 &amp;amp; 테스트 환경을 구축합니다.&lt;/p&gt;</description>
+      </item>
+      
+    
+  </channel>
+</rss>

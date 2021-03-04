@@ -15,6 +15,15 @@
     
       
       <item>
+        <title>QEMU x86_64 machine full virtualized arm64 linux deveolpmet enviroment</title>
+        <link>https://paranlee.github.io/linux-kernel/arm64-cross-development/</link>
+        <pubDate>Thu, 04 Mar 2021 00:36:39 +0900</pubDate>
+        
+        <guid>https://paranlee.github.io/linux-kernel/arm64-cross-development/</guid>
+        <description></description>
+      </item>
+      
+      <item>
         <title>Linux kernel cross compile arm64 on x86_64 machine</title>
         <link>https://paranlee.github.io/linux-kernel/linux-kernel-cross-compile/</link>
         <pubDate>Mon, 01 Mar 2021 00:36:39 +0900</pubDate>

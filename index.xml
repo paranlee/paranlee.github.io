@@ -141,6 +141,19 @@ netlistsvg install 1 2  $ git clone https://github.com/nturley/netlistsvg $ cd e
       </item>
       
       <item>
+        <title>QEMU x86_64 machine full virtualized arm64 linux deveolpmet enviroment</title>
+        <link>https://paranlee.github.io/linux-kernel/arm64-cross-development/linux-kernel-cross-compile-arm64/</link>
+        <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/linux-kernel/arm64-cross-development/linux-kernel-cross-compile-arm64/</guid>
+        <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;QEMU 전가상화로 x86_64 리눅스 머신에서 arm64 개발 &amp;amp; 테스트 환경을 구성해봅니다.&lt;/p&gt;
+&lt;p&gt;qemu-arm-aarch64 와 라즈베리파이4 머신 세팅 기반,&lt;/p&gt;
+&lt;p&gt;aarch64 데비안 배포판 이미지 기반으로 네트워크 설정을 하고&lt;/p&gt;
+&lt;p&gt;전가상화 개발 &amp;amp; 테스트 환경을 구축합니다.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
         <title>Linux kernel cross compile arm64 on x86_64 machine</title>
         <link>https://paranlee.github.io/linux-kernel/linux-kernel-cross-compile/linux-kernel-cross-compile-arm64/</link>
         <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
