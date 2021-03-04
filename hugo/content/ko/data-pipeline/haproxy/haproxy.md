@@ -28,7 +28,7 @@ L4 의 TCP (UDP 는 지원안함), L7의 HTTP 라우팅 기능을 하는 오픈�
 
 L4 레이어 단계의 Log 기능이 있음
 
-Shared frontend 로 HAProxy 노드도 고가용성을 가지면서 확장 가능함
+Shared frontend 로 HA Proxy 노드도 고가용성을 가지면서 확장 가능함
 
 #### IP로 세션 유지하기
 

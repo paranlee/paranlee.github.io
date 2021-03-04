@@ -82,7 +82,7 @@ $ iverilog hello.v -o hello
 $ vvp hello
 Hello, Verilog!
 
-{{< highlight bash >}}
+{{< /highlight >}}
 
 성공적으로 설치했습니다. 짝짝짝
 

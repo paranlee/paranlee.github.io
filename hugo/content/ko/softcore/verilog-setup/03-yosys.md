@@ -25,7 +25,7 @@ yosys 는 베릴로그 RTL 합성 툴입니다.
 
 yosys 도 기능과 성능이 우수한 최신 릴리즈로 설치합니다.
 
-(yosys github)[https://github.com/YosysHQ/yosys] setup 항목을 참고하시면 좋습니다.
+[yosys github](https://github.com/YosysHQ/yosys) setup 항목을 참고하시면 좋습니다.
 
 #### Install dependency on ubuntu
 {{< highlight bash >}}
