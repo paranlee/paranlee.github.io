@@ -45,15 +45,19 @@ lowrisc 데모영상을 보고 감동을 받았습니다.
 
 {{< youtube oKz-Yyun9NM >}}
 
-
 <br>
   
-제가 특히 감동받은 원인은, 리눅스 부팅까지 가능한 하드웨어 설계라는 점입니다.
+그 감동의 원인은, 
+
+기존 FPGA & Arm (기타 등등..) core 가 SoC 에 들어있어 리눅스 부팅 가능한 보드가 아니라
+
+FPGA 에서 합성해서 CPU, FPU, 메모리 컨트롤러, 버스까지 개발자가 뚝딱!
+
+그것도 펌웨어 수준이 아니라, 리눅스 부팅까지 가능한 하드웨어 설계라는 점입니다!
 
 굉장히 범용적으로 하드웨어 가속화를 사용할 수 있을거라 생각이 드네요.
 
 lowrisc getting started [^3]에 보면 위의 데모를 위한 내용이 나와있습니다.
-
   
 
 ## Chisel example source code
@@ -77,9 +81,11 @@ class Add extends Module {
 
 {{< /highlight >}}
 
-Scala 의 특징을 사용해서, 
+최근에 나온 언어들의 특징이기도 하고,
 
-모듈마다 명시해주던 변수 선언이 간편해진 특징이 보입니다.
+Scala 문법을 따라서
+
+모듈마다 명시해주던 변수 선언이 간편해졌네요.
 
 #### example - stack 
 
@@ -160,12 +166,15 @@ class StackTests(c: Stack) extends Tester(c) {
 
 unit test 코드는 과연 이 코드가 하드웨어를 테스트 하는게 맞을까? 하는 생각이 드네요.
 
+<br>
   
 ## Summary
 
 오늘날 소프트웨어 개발이 블랙박스를 가지고 편하게 비지니스 로직을 개발하듯이,
 
 하드웨어 개발도 얼마 만큼 편하고 생산성 좋게 구현할 수 있을지 기대되고 궁금하네요.
+
+<br>
 
 [^1]: Chisel – Accelerating Hardware Design pdf [link](https://riscv.org/wp-content/uploads/2015/01/riscv-chisel-tutorial-bootcamp-jan2015.pdf)
 [^2]: Rocket Chip pdf [link](https://riscv.org/wp-content/uploads/2015/01/riscv-rocket-chip-generator-workshop-jan2015.pdf)

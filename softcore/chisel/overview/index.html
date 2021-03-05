@@ -1875,7 +1875,10 @@
 </div>
 
 <br>
-<p>제가 특히 감동받은 원인은, 리눅스 부팅까지 가능한 하드웨어 설계라는 점입니다.</p>
+<p>그 감동의 원인은,</p>
+<p>기존 FPGA &amp; Arm (기타 등등..) core 가 SoC 에 들어있어 리눅스 부팅 가능한 보드가 아니라</p>
+<p>FPGA 에서 합성해서 CPU, FPU, 메모리 컨트롤러, 버스까지 개발자가 뚝딱!</p>
+<p>그것도 펌웨어 수준이 아니라, 리눅스 부팅까지 가능한 하드웨어 설계라는 점입니다!</p>
 <p>굉장히 범용적으로 하드웨어 가속화를 사용할 수 있을거라 생각이 드네요.</p>
 <p>lowrisc getting started <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>에 보면 위의 데모를 위한 내용이 나와있습니다.</p>
 <h2 id="chisel-example-source-code">Chisel example source code</h2>
@@ -1907,8 +1910,9 @@
 <span class="o">}</span></code></pre></td></tr></table>
 </div>
 </div>
-<p>Scala 의 특징을 사용해서,</p>
-<p>모듈마다 명시해주던 변수 선언이 간편해진 특징이 보입니다.</p>
+<p>최근에 나온 언어들의 특징이기도 하고,</p>
+<p>Scala 문법을 따라서</p>
+<p>모듈마다 명시해주던 변수 선언이 간편해졌네요.</p>
 <h4 id="example---stack">example - stack</h4>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -2047,9 +2051,11 @@
 </div>
 </div>
 <p>unit test 코드는 과연 이 코드가 하드웨어를 테스트 하는게 맞을까? 하는 생각이 드네요.</p>
+<br>
 <h2 id="summary">Summary</h2>
 <p>오늘날 소프트웨어 개발이 블랙박스를 가지고 편하게 비지니스 로직을 개발하듯이,</p>
 <p>하드웨어 개발도 얼마 만큼 편하고 생산성 좋게 구현할 수 있을지 기대되고 궁금하네요.</p>
+<br>
 <div class="footnotes" role="doc-endnotes">
 <hr />
 <ol>
