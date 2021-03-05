@@ -2,7 +2,7 @@
 author = "Paran Lee"
 title = "overview"
 date = "2021-03-01"
-description = "hash 기반 Join 시 빠르게 동작하는 확률적 자료구조"
+description = "hash 기반 Join 을 위해 빠르게 동작하는 확률적 자료구조"
 tags = [
     "markdown",
     "css",

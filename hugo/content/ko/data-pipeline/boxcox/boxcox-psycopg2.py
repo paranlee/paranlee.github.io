@@ -50,8 +50,7 @@ try:
 
     print("max lamda value : ", lamda)
 
-    print(transformed[0])
-    print(transformed[1])
+    print("transformed: ", transformed[0], transformed[1])
 
     stddev = np.std(transformed)
     avg = np.mean(transformed)
@@ -102,13 +101,12 @@ try:
     invup = orgUp
     invdown = orgDown
 
-
 except:
     print('except')
     orgAvg = np.mean(inputSeries)
     orgStd = np.std(inputSeries)
 
-    orgUp = orgAvg   (orgStd * sigma)
+    orgUp = orgAvg + (orgStd * sigma)
     orgDown = orgAvg - (orgStd * sigma)
 
     invup = orgUp
@@ -123,14 +121,25 @@ except:
     if str(invdown) == 'nan' or str(invdown) == 'inf':
         invdown = psycopg2.extensions.AsIs('NULL')
 
-#minus change 0
-#if invup < 0:
-# invup = 0
-#if invdown < 0:
-# invdown = 0
+# minus change 0
+# if invup < 0:
+#     invup = 0
+# if invdown < 0:
+#     invdown = 0
 
 # threshold update
-cur.execute("update ts_bg_alarm_outlier_threshold set threshold_min = %s ,threshold_max = %s where cdate = %s and idValue = %s and timeValue = %s;",(invdown, invup, cdate, idValue, timeValue))
+
+sql = """UPDATE
+        outlier_threshold_table
+    SET threshold_min = %(invdown)s,
+        threshold_max = %(invup)s 
+    WHERE 1=1
+        AND cdate = %(cdate)s 
+        AND idValue = %(idValue)s
+        AND timeValue = %(timeValue)s ;"""
+
+cur.execute(sql)
+
 conn.commit()
 
 print("WORKFLOW END [BOXCOX] :", dt.isoformat(dt.utcnow()))
