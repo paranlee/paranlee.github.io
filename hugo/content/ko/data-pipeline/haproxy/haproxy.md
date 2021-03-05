@@ -13,7 +13,7 @@ categories = [
     "themes",
     "syntax",
 ]
-series = ["Themes Guide"]
+series = ["Data pipeline"]
 +++
 
 <!--more-->

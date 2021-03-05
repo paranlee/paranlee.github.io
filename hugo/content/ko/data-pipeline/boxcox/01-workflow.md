@@ -14,7 +14,7 @@ categories = [
     "themes",
     "syntax",
 ]
-series = ["Themes Guide"]
+series = ["Data pipeline"]
 +++
 
 ## Concept

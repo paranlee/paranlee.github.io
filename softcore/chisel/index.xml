@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chisel on Paran Lee&#39;s docs</title>
+    <link>https://paranlee.github.io/softcore/chisel/</link>
+    <description>Recent content in Chisel on Paran Lee&#39;s docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 04 Mar 2021 00:36:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://paranlee.github.io/softcore/chisel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Chisel Overview</title>
+        <link>https://paranlee.github.io/softcore/chisel/overview/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/softcore/chisel/overview/</guid>
+        <description>Overview 최근 Softcore 동향에 인기있는 Chisel 을 소개합니다.
+Constructing Hardware in a Scala Embedded Language (Chisel)
+Chisel 의 특성을 살펴보면
+RTL generator 들은 Chisel 로 만들어집니다.
+ scala 를 기반으로 사용하는 HDL  Scala 언어의 좋은 특성을 많이 쓸 수 있습니다.
+ object-oriented programming functional programming  또 흥미로운 프로젝트들이 많이 있는데, 하나를 예로 들면
+RISC-V &amp;ldquo;Rocket Chip&amp;rdquo; SoC Generator1
+특히 Rocket Chip2 을 기반으로 FPGA 보드에 올려서 만든
+lowrisc 데모영상을 보고 감동을 받았습니다.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
