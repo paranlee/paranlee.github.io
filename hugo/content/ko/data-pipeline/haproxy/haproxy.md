@@ -30,12 +30,13 @@ L4 레이어 단계의 Log 기능이 있음
 
 Shared frontend 로 HA Proxy 노드도 고가용성을 가지면서 확장 가능함
 
-#### IP로 세션 유지하기
+## IP로 세션 유지하기
 
 Client IP에 대한 해쉬 테이블을 만들어서 찰싹 붙임
 
-	/etc/haproxy/haproxy.cfg
-	# …
+####  /etc/haproxy/haproxy.cfg
+
+	# ...
 	
 	# round robin balancing between the various backeands
 	backend app
@@ -44,9 +45,9 @@ Client IP에 대한 해쉬 테이블을 만들어서 찰싹 붙임
 	    # 클라이언트 별 IP 값으로 sticky session
 	    hash-type consistent
 	    
-	    server tcpserver01 127.0.0.1:30001 S01 check
-	    server tcpserver01 127.0.0.1:30002 S02 check
-	    # server app1 127.0.0.1:30001 check
-	    # server app2 127.0.0.1:30002 check
+	    server tcpserver01 192.168.10.1:30001 S01 check
+	    server tcpserver01 192.168.10.2:30002 S02 check
+	    # server app1 192.168.10.1:30001 check
+	    # server app2 192.168.10.2:30002 check
 	
 	# ...

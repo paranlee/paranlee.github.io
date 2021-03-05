@@ -30,6 +30,20 @@ C 문법에 기반한 프로그래밍 언어와 verilog 문법이 비슷하기 �
       </item>
       
       <item>
+        <title>Why project needed Boxcox transformation?</title>
+        <link>https://paranlee.github.io/data-pipeline/boxcox/00-boxcox/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/data-pipeline/boxcox/00-boxcox/</guid>
+        <description>Why use Boxcox transformation, perspective of workflow 값들의 차분 배열 (sort 후 뒤에 친구 값이랑 나랑 차이만 쏙)
+→ boxcox transformation (복잡한 지수함수의 승수의 해를 뉴턴 메서드로 구하고 이를 정규분포로 변환)
+→ 정규분포 6 σ (적당한 값 추리기 좋다)
+→ 평범한 놈들 그래 니들을 원했어 ㅇㅇ
+Definiotion of the Boxcox transformation 선두 그룹에 값이 몰려 있는 경우처럼 통계적으로 접근하는 값들이 불균일한 산포를 이룰 경우,
+이 값들을 정규분포 관점으로 접근하고자 할 때 Boxcox transformation 을 사용합니다.</description>
+      </item>
+      
+      <item>
         <title>Install - Icarus verilog</title>
         <link>https://paranlee.github.io/softcore/verilog-setup/01-icarus-verilog/</link>
         <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
@@ -37,6 +51,18 @@ C 문법에 기반한 프로그래밍 언어와 verilog 문법이 비슷하기 �
         <guid>https://paranlee.github.io/softcore/verilog-setup/01-icarus-verilog/</guid>
         <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;패키지 업데이트가 비교적 느린편이므로, 성능 &amp;amp; 기능이 우수한 최신 릴리즈를 사용하려고 합니다.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>Boxcox transformation on workflow</title>
+        <link>https://paranlee.github.io/data-pipeline/boxcox/01-workflow/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/data-pipeline/boxcox/01-workflow/</guid>
+        <description>Concept 몇가지 개념정리 및 코드를 보고 진행합니다.
+Outlier removal workflow 차분(Difference):
+sort 후 각 항목의 차이 값차분 값의 배열을 만들 수 있음. 사분위수(Quartile):
+데이터를 가장 작은 수부터 가장 큰 수까지 크기가 커지는 순서대로 정렬하였을 때,1/4, 2/4, 3/4 위치에 있는 수를 말한다. 각각 1사분위수, 2사분위수, 3사분위수라고 한다. 1/4의 위치란 전체 데이터의 수가 만약 100개이면 25번째 순서, 즉 하위 25%를 말한다. 따라서 2사분위수는 중앙값과 같다.때로는 위치를 1/100 단위로 나눈 백분위수(percentile)을 사용하기도 한다.</description>
       </item>
       
       <item>
@@ -48,6 +74,25 @@ C 문법에 기반한 프로그래밍 언어와 verilog 문법이 비슷하기 �
         <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;디지털회로 디버깅을 위해서 value change dump 파일로 클록, 입출력 등을 보여주는 GTK Wave 를 설치합니다.&lt;/p&gt;
 &lt;p&gt;이 패키지는 최신 릴리즈가 성능에는 큰 영향이 없다고 생각이 들어서 그냥 패키지 매니저로 설치했습니다.&lt;/p&gt;</description>
+      </item>
+      
+      <item>
+        <title>부동소수점 잘 알고 쓰자</title>
+        <link>https://paranlee.github.io/data-pipeline/boxcox/02-floating-point/</link>
+        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/data-pipeline/boxcox/02-floating-point/</guid>
+        <description>Overview 부동소수점으로 표현한 수가 실수를 정확히 표현하지 못하고
+부동 소수점 연산 역시 실제 수학적 연산을 정확히 표현하지 못하는 것은 여러가지 문제를 낳는다.
+Error of floating point example 0.1과 0.01을 표현하지 못하므로 0.1의 제곱이 0.01이 되지도 않고
+0.01과 가장 가까운 수가 되지도 않는다.
+24비트 단정밀도 표현에서,
+십진수 0.1 은
+지수 = -4, 가수 = 110011001100110011001101 이고 그 값은
+정확히 0.1000000014901161193847656256이다.
+이 수를 다시 제곱하면,
+정확히 0.010000000298023226097399174250313080847263336181640625이다.
+단정밀도 부동 소수점 (반올림 있는) 하드웨어에서 제곱을 한다면,</description>
       </item>
       
       <item>
@@ -98,21 +143,6 @@ netlistsvg install 1 2  $ git clone https://github.com/nturley/netlistsvg $ cd e
         <guid>https://paranlee.github.io/linux-kernel/linux-kernel-cross-compile/linux-kernel-cross-compile-arm64/</guid>
         <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;x86_64 머신에서 arm64 리눅스 커널을 빌드합니다.&lt;/p&gt;</description>
-      </item>
-      
-      <item>
-        <title>Boxcox transformation, why?</title>
-        <link>https://paranlee.github.io/data-pipeline/boxcox/boxcox/</link>
-        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://paranlee.github.io/data-pipeline/boxcox/boxcox/</guid>
-        <description>Boxcox transformation, why? perspective of workflow 차분 변환 (sort 후 뒤에 친구 값이랑 나랑 차이만 쏙)
-→ boxcox transformation (복잡한 지수함수의 승수의 해를 뉴턴 메서드로 구하고 이를 정규분포로 변환)
-→ 정규분포 (적당한 값 추리기 좋다)
-→ 6 σ
-→ 평범한 놈들 그래 니들을 원했어 ㅇㅇ
-Boxcox inner implementation 참고 scipy
-Bloom filter Code block 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30  # 1.</description>
       </item>
       
       <item>
