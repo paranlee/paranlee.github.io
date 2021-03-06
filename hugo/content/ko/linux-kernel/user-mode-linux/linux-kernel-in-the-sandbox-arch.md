@@ -83,7 +83,7 @@ make defconfig
 
 - KDE 기반의 [KDbg](https://www.kdbg.org/)
 
-- 파이썬 기반의 웹 기반 GUI 로 사용하는 [gdbgui](https://www.gdbgui.com/) 
+- 파이썬 기반의 웹 GUI 로 사용하는 [gdbgui](https://www.gdbgui.com/) 
 
 - VSCode GDB 연동 플러그인
 
