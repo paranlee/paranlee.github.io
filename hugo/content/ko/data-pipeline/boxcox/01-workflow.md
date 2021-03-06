@@ -47,7 +47,7 @@ series = ["Data pipeline"]
     np.percentile(x, 75)  # 3사분위 수
     np.percentile(x, 100)  # 최댓값
 
-아래는 위의 설명한 개념을 이용한 파이써 예제 코드입니다.
+아래는 위의 설명한 개념을 이용한 예제 프로그램입니다.
 
 #### Oulier removal using diffrence series
 {{< highlight py >}}
