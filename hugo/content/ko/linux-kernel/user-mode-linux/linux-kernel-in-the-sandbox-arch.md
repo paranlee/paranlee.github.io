@@ -59,7 +59,7 @@ git checkout 5.10.19
 $ cat > set.sh
 export CFLAGS="-g -Wall -Wextra"
 export ARCH=um 
-export SUBARCH=x86_64 # arch/arm64/Makefile.um X arm64 안됨 ㅜ export SUBARCH=arm64
+export SUBARCH=x86_64 # arch/arm64/Makefile.um X arm64 안됨 :( export SUBARCH=arm64
 # ctrl + d
 $ source set.sh
 
@@ -96,6 +96,8 @@ make defconfig
     Kernel Hacking
         ->Compile the kernel with frame pointers - Enable
         ->Show command line arguments on the host in TT mode - Disable
+
+또 (리눅스 커널의 lock 을 디버깅)[http://jake.dothome.co.kr/lockdep/] 하기 위해서 설정할 수 있는 부분이 있다.
 
 #### config & compile +α
 {{< highlight bash >}}
