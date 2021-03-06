@@ -214,7 +214,7 @@ netlistsvg install 1 2  $ git clone https://github.com/nturley/netlistsvg $ cd e
         <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
         
         <guid>https://paranlee.github.io/softcore/chisel/overview/</guid>
-        <description>Overview 최근 Softcore 동향에 인기있는 Chisel 을 소개합니다.
+        <description>Overview 최근 Softcore 동향에서 주목받는 Chisel 을 소개합니다.
 Constructing Hardware in a Scala Embedded Language (Chisel)
 Chisel 의 특성을 살펴보면
 RTL generator 들은 Chisel 로 만들어집니다.
@@ -241,11 +241,13 @@ lowrisc 데모영상을 보고 감동을 받았습니다.</description>
         
         <guid>https://paranlee.github.io/linux-kernel/linux-kernel-version/slts/</guid>
         <description>Overview 리눅스 4.4 &amp;amp; 4.19 는 현재도 현역 커널로 활동중입니다.1
-이 두 버전은 SLTS (Super Long Term Support) 로 현재까지도 vanilla Linux kernel upstream 에서 유지보수하는 커널 버전이기 때문입니다.
-해당 커널 버전은 송전, 정유, 가스 시설 등등&amp;hellip; 우리 도시를 이루는 핵심 인프라에서 사용하기 때문이죠.
-SLTS 에 해당하는 버전들을 커널 소스 태그에서나
-bootlin에 들어가셔서 릴리즈 번호를 보면 아마 깜짝 놀라실 겁니다.
-다음번 SLTS 는 언제 나오나요? Debian 11  Debian 11 for release, began on 13 January 2021.</description>
+이 두 버전은 SLTS (Super Long Term Support) 로 2021년 현재까지도
+vanilla Linux kernel upstream 에서 유지보수하는 커널 버전이기 때문입니다.
+해당 커널 버전은 송전, 정유, 가스 시설 등등&amp;hellip;
+우리 도시를 이루는 핵심 인프라에서 사용하기 때문이죠.
+플랫폼의 20년 이상의 유지보수는 메인프레임 기반 시스템을 구축 시 고려하는 수준입니다.
+SLTS 에 해당하는 버전들은
+ 커널 소스 태그 bootlin  둘 중 하나에 들어가셔서 릴리즈 번호를 보면 아마 깜짝 놀라실 겁니다.</description>
       </item>
       
       <item>

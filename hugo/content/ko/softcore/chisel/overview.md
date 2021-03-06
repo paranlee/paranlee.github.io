@@ -18,7 +18,7 @@ series = ["Softcore"]
 
 ## Overview
 
-최근 Softcore 동향에 인기있는 Chisel 을 소개합니다.
+최근 Softcore 동향에서 주목받는 Chisel 을 소개합니다.
 
 *Constructing Hardware in a Scala Embedded Language (Chisel)*
 

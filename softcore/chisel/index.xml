@@ -20,7 +20,7 @@
         <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
         
         <guid>https://paranlee.github.io/softcore/chisel/overview/</guid>
-        <description>Overview 최근 Softcore 동향에 인기있는 Chisel 을 소개합니다.
+        <description>Overview 최근 Softcore 동향에서 주목받는 Chisel 을 소개합니다.
 Constructing Hardware in a Scala Embedded Language (Chisel)
 Chisel 의 특성을 살펴보면
 RTL generator 들은 Chisel 로 만들어집니다.

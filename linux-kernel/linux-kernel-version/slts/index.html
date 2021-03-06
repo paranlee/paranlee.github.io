@@ -1939,21 +1939,30 @@
 
   <article class="single__contents" data-dir="ltr">
     <h2 id="overview">Overview</h2>
-<p>리눅스 4.4 &amp; 4.19 는 현재도 현역 커널로 활동중입니다.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br />
-이 두 버전은 SLTS (Super Long Term Support) 로 현재까지도 vanilla Linux kernel upstream 에서 유지보수하는 커널 버전이기 때문입니다.</p>
-<p>해당 커널 버전은 송전, 정유, 가스 시설 등등&hellip; 우리 도시를 이루는 핵심 인프라에서 사용하기 때문이죠.</p>
-<p>SLTS 에 해당하는 버전들을 <a href="https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/" target="_blank">커널 소스 태그</a>에서나<br />
-<a href="https://elixir.bootlin.com/" target="_blank">bootlin</a>에 들어가셔서 릴리즈 번호를 보면 아마 깜짝 놀라실 겁니다.</p>
+<p>리눅스 4.4 &amp; 4.19 는 현재도 현역 커널로 활동중입니다.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>이 두 버전은 SLTS (Super Long Term Support) 로 2021년 현재까지도</p>
+<p>vanilla Linux kernel upstream 에서 유지보수하는 커널 버전이기 때문입니다.</p>
+<p>해당 커널 버전은 송전, 정유, 가스 시설 등등&hellip;</p>
+<p>우리 도시를 이루는 핵심 인프라에서 사용하기 때문이죠.</p>
+<p>플랫폼의 20년 이상의 유지보수는 메인프레임 기반 시스템을 구축 시 고려하는 수준입니다.</p>
+<p>SLTS 에 해당하는 버전들은</p>
+<ul>
+<li><a href="https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/" target="_blank">커널 소스 태그</a></li>
+<li><a href="https://elixir.bootlin.com/" target="_blank">bootlin</a></li>
+</ul>
+<p>둘 중 하나에 들어가셔서 릴리즈 번호를 보면 아마 깜짝 놀라실 겁니다.</p>
 <h2 id="다음번-slts-는-언제-나오나요">다음번 SLTS 는 언제 나오나요?</h2>
-<h4 id="debian-11">Debian 11</h4>
-<blockquote>
-<p>Debian 11 for release, began on 13 January 2021.</p><br />
-— <cite>The Debian release team<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></cite></p>
-</blockquote>
+<p>Linux foundation 에서 SLTS 를 담당하는 CIP 에서 찾아보면 다음과 같이 나와있습니다.</p>
 <h4 id="cip">CIP</h4>
 <blockquote>
 <p>By starting the SLTS kernel development, CIP would be ready to align with a new Debian release which is expected in 2021.</p><br />
-— <cite>CIVIL INFRASTRUCTURE PLATFORM<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></cite></p>
+— <cite>CIVIL INFRASTRUCTURE PLATFORM<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></cite></p>
+</blockquote>
+<p>데비안 릴리즈는 어떻게 진행되고 있는지 볼까요.</p>
+<h4 id="debian-11">Debian 11</h4>
+<blockquote>
+<p>Debian 11 for release, began on 13 January 2021.</p><br />
+— <cite>The Debian release team<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></cite></p>
 </blockquote>
 <h2 id="debian-release-tables">Debian release tables</h2>
 <p>CIP 에서 언급했듯이 데비안 11 에서 리눅스 커널 버전이 들어가 있는 것을 확인할 수 있습니다. <sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></p>
@@ -1971,20 +1980,21 @@
 </tr>
 </tbody>
 </table>
+<br>
 <div class="footnotes" role="doc-endnotes">
 <hr />
 <ol>
 <li id="fn:1" role="doc-endnote">
-<p>Linux kernel version history <a href="https://en.wikipedia.org/wiki/Linux_kernel_version_history" target="_blank">talk</a> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Linux kernel version history <a href="https://en.wikipedia.org/wiki/Linux_kernel_version_history" target="_blank">link</a> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:2" role="doc-endnote">
-<p>Debian 11 for release, began on 13 January 2021. <a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Debian-11-Freeze-Starts" target="_blank">talk</a> <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>CIP would be ready to align with a new Debian release which is expected in 2021. <a href="https://www.cip-project.org/blog/2020/12/02/cip-to-embark-on-kernel-5-10-development-for-slts" target="_blank">link</a> <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3" role="doc-endnote">
-<p>CIP would be ready to align with a new Debian release which is expected in 2021. <a href="https://www.cip-project.org/blog/2020/12/02/cip-to-embark-on-kernel-5-10-development-for-slts" target="_blank">talk</a> <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Debian 11 for release, began on 13 January 2021. <a href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Debian-11-Freeze-Starts" target="_blank">link</a> <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4" role="doc-endnote">
-<p>Debian 11 &ndash; Release Notes <a href="https://www.debian.org/releases/testing/releasenotes" target="_blank">talk</a> <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Debian 11 &ndash; Release Notes <a href="https://www.debian.org/releases/testing/releasenotes" target="_blank">link</a> <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </div>
@@ -2008,8 +2018,8 @@
       <ul>
         <li>
           <ul>
-            <li><a href="#debian-11">Debian 11</a></li>
             <li><a href="#cip">CIP</a></li>
+            <li><a href="#debian-11">Debian 11</a></li>
           </ul>
         </li>
       </ul>
