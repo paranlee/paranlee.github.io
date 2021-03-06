@@ -2002,9 +2002,22 @@ make defconfig</code></pre></td></tr></table>
 </div>
 </div>
 <p>여기서 잠깐, 우리는 열심히 리눅스 커널을 해킹할것이므로</p>
-<p>아래의 추가 설정을 해줍시다!</p>
-<p>DDD나 Insight를 사용해서 디버깅하는 것도 가능합니다.<br />
-커널을 직접 빌드하는 경우에 디버깅이 가능하게 하려면 다음 옵션을 선택하면 됩니다.</p>
+<p>고전적인 DDD나 Insight를 사용해서 디버깅하는 것도 가능합니다.</p>
+<p>최근에도 계속해서 릴리즈 하고 있는</p>
+<ul>
+<li>
+<p>KDE 기반의 <a href="https://www.kdbg.org/" target="_blank">KDbg</a></p>
+</li>
+<li>
+<p>파이썬 기반의 웹 기반 GUI 로 사용하는 <a href="https://www.gdbgui.com/" target="_blank">gdbgui</a></p>
+</li>
+<li>
+<p>VSCode GDB 연동 플러그인</p>
+</li>
+</ul>
+<p>선택지가 많네요.</p>
+<p>아무튼 아래의 추가 설정을 해줍시다!</p>
+<p>커널을 직접 빌드하는 경우에 디버깅이 가능하게 하려면 다음 옵션을 선택하면 됩니다.</p>
 <pre><code>Kernel Hacking
     -&gt;Compile the kernel with frame pointers - Enable
     -&gt;Show command line arguments on the host in TT mode - Disable

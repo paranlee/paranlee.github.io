@@ -77,9 +77,20 @@ make defconfig
 
 여기서 잠깐, 우리는 열심히 리눅스 커널을 해킹할것이므로
 
-아래의 추가 설정을 해줍시다!
+고전적인 DDD나 Insight를 사용해서 디버깅하는 것도 가능합니다.
 
-DDD나 Insight를 사용해서 디버깅하는 것도 가능합니다.
+최근에도 계속해서 릴리즈 하고 있는
+
+- KDE 기반의 [KDbg](https://www.kdbg.org/)
+
+- 파이썬 기반의 웹 기반 GUI 로 사용하는 [gdbgui](https://www.gdbgui.com/) 
+
+- VSCode GDB 연동 플러그인
+
+선택지가 많네요.
+
+아무튼 아래의 추가 설정을 해줍시다!
+
 커널을 직접 빌드하는 경우에 디버깅이 가능하게 하려면 다음 옵션을 선택하면 됩니다.
 
     Kernel Hacking
