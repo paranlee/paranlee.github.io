@@ -97,7 +97,7 @@ make defconfig
         ->Compile the kernel with frame pointers - Enable
         ->Show command line arguments on the host in TT mode - Disable
 
-또 (리눅스 커널의 lock 을 디버깅)[http://jake.dothome.co.kr/lockdep/] 하기 위해서 설정할 수 있는 부분이 있다.
+또 리눅스 커널의 lock 을 디버깅[^1] 하기 위해서 설정할 수 있는 부분이 있습니다.
 
 #### config & compile +α
 {{< highlight bash >}}
@@ -221,3 +221,4 @@ chmod +x rootfs/boot/boot.sh
 
 다음에는 커널 소스를 Hack 한 다음 GDB TUI 모드에서 디버깅하는 과정을 살펴봅니다.
 
+[^1]: 문C 블로그 lockdep [link](http://jake.dothome.co.kr/lockdep/)
