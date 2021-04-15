@@ -63,6 +63,10 @@ CIP 에서 언급했듯이 데비안 11 에서 리눅스 커널 버전이 들어
 
 <br>
 
+#### 참고
+
+- [LWN: Super long-term kernel support](https://lwn.net/Articles/749530/)
+
 [^1]: Linux kernel version history [link](https://en.wikipedia.org/wiki/Linux_kernel_version_history)
 
 [^2]: CIP would be ready to align with a new Debian release which is expected in 2021. [link](https://www.cip-project.org/blog/2020/12/02/cip-to-embark-on-kernel-5-10-development-for-slts)
@@ -70,5 +74,3 @@ CIP 에서 언급했듯이 데비안 11 에서 리눅스 커널 버전이 들어
 [^3]: Debian 11 for release, began on 13 January 2021. [link](https://www.phoronix.com/scan.php?page=news_item&px=Debian-11-Freeze-Starts)
 
 [^4]: Debian 11 -- Release Notes [link](https://www.debian.org/releases/testing/releasenotes)
-
-
