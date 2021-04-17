@@ -2286,7 +2286,7 @@ nameserver 8.8.8.8</code></pre></td></tr></table>
 </span><span class="lnt">28
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">## GUEST</span>
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">## GUEST (QEMU in a WSL2)</span>
 
 root@rpi4-20210303:~# cat /etc/network/interfaces
 auto enp0s1
@@ -2340,13 +2340,9 @@ rtt min/avg/max/mdev <span class="o">=</span> 0.373/0.449/0.571/0.086 ms</code><
 </span><span class="lnt">15
 </span><span class="lnt">16
 </span><span class="lnt">17
-</span><span class="lnt">18
-</span><span class="lnt">19
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">## GUEST</span>
-
-<span class="c1">## HOST (WSL2)</span>
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">## HOST (WSL2)</span>
 
 $ hostname -I
 172.21.36.142 192.168.105.1
@@ -2393,7 +2389,7 @@ $ sudo iptables -t nat -A POSTROUTING -s 192.168.105.0/24 -o eth0 -j SNAT --to 1
 </span><span class="lnt">22
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">## GUEST</span>
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">## GUEST (QEMU in a WSL2)</span>
 
 root@rpi4-20210303:~# ping 8.8.8.8
 PING 8.8.8.8 <span class="o">(</span>8.8.8.8<span class="o">)</span> 56<span class="o">(</span>84<span class="o">)</span> bytes of data.
@@ -2566,7 +2562,7 @@ Calculating upgrade... Done
 </span><span class="lnt">138
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">## GUEST</span>
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1">## GUEST (QEMU in a WSL2)</span>
 
 root@rpi4-20210303:~# fdisk -l
 Disk /dev/vda: 21.46 GiB, <span class="m">23047700480</span> bytes, <span class="m">45015040</span> sectors

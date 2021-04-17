@@ -225,7 +225,7 @@ DNS 설정을 추가해주어야 합니다.
 #### Inbound - Guest
 {{< highlight bash >}}
 
-## GUEST
+## GUEST (QEMU in a WSL2)
 
 root@rpi4-20210303:~# cat /etc/network/interfaces
 auto enp0s1
@@ -266,9 +266,6 @@ NAT 아웃바운드 설정을 해야합니다.
 
 #### Outbound - Host
 {{< highlight bash >}}
-
-## GUEST
-
 ## HOST (WSL2)
 
 $ hostname -I
@@ -294,7 +291,7 @@ $ sudo iptables -t nat -A POSTROUTING -s 192.168.105.0/24 -o eth0 -j SNAT --to 1
 #### Outbound - Guest
 {{< highlight bash >}}
 
-## GUEST
+## GUEST (QEMU in a WSL2)
 
 root@rpi4-20210303:~# ping 8.8.8.8
 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
@@ -335,7 +332,7 @@ fdisk 와 resize2fs 를 이용해서 파티션 사이즈를 늘려줍니다.
 #### fdisk & resize2fs
 {{< highlight bash >}}
 
-## GUEST
+## GUEST (QEMU in a WSL2)
 
 root@rpi4-20210303:~# fdisk -l
 Disk /dev/vda: 21.46 GiB, 23047700480 bytes, 45015040 sectors
