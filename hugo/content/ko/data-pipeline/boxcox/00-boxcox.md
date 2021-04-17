@@ -45,7 +45,7 @@ series = ["Data pipeline"]
 
 [scipy 깃허브 링크](https://github.com/scipy)
 
-#### Bloom filter Code block
+#### Boxcox code block
 {{< highlight text >}}
   
   # 1. scipy/stats/__init__.py
@@ -118,5 +118,3 @@ expm1, expm1f, expm1l - exponential minus 1
       ....
 
 {{< /highlight >}}
-
-
