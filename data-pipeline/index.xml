@@ -41,6 +41,18 @@
         <description></description>
       </item>
       
+      <item>
+        <title></title>
+        <link>https://paranlee.github.io/data-pipeline/supercluster/supercluster/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/data-pipeline/supercluster/supercluster/</guid>
+        <description>2.1 A Taxonomy of Parallel Computing
+병렬 컴퓨팅의 분류
+Beowulf-class systems — ensembles of PCs (e.g., Intel Pentium 4) integrated with commercial COTS local area networks (e.g., Fast Ethernet) or system area networks (e.g., Myrinet) and run widely available low-cost or no-cost software for managing system resources and coordinating parallel execution. Such systems exhibit exceptional price/performance for many applications.
+상용 COTS(기성) LAN (예 : 고속 이더넷) 또는 시스템 영역 네트워크 (예 : Myrinet)와 통합 된 PC 앙상블 (예 : Intel Pentium 4) 및 시스템 리소스 관리 및 조정을 위해 널리 사용되는 저비용 또는 무료 소프트웨어 실행 병렬 실행.</description>
+      </item>
+      
     
   </channel>
 </rss>

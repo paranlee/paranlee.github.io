@@ -439,6 +439,29 @@ subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
 caluere tempus&lt;/p&gt;</description>
       </item>
       
+      <item>
+        <title></title>
+        <link>https://paranlee.github.io/data-pipeline/supercluster/supercluster/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/data-pipeline/supercluster/supercluster/</guid>
+        <description>2.1 A Taxonomy of Parallel Computing
+병렬 컴퓨팅의 분류
+Beowulf-class systems — ensembles of PCs (e.g., Intel Pentium 4) integrated with commercial COTS local area networks (e.g., Fast Ethernet) or system area networks (e.g., Myrinet) and run widely available low-cost or no-cost software for managing system resources and coordinating parallel execution. Such systems exhibit exceptional price/performance for many applications.
+상용 COTS(기성) LAN (예 : 고속 이더넷) 또는 시스템 영역 네트워크 (예 : Myrinet)와 통합 된 PC 앙상블 (예 : Intel Pentium 4) 및 시스템 리소스 관리 및 조정을 위해 널리 사용되는 저비용 또는 무료 소프트웨어 실행 병렬 실행.</description>
+      </item>
+      
+      <item>
+        <title></title>
+        <link>https://paranlee.github.io/linux-kernel/page-replacement/page-replacement-asynchronously-synchronously/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://paranlee.github.io/linux-kernel/page-replacement/page-replacement-asynchronously-synchronously/</guid>
+        <description>Linux 커널에서 페이지 교체를 다음 두 가지 방법 중 하나로 처리합니다.
+ kswapd 를 통한 Asynchronously, direct reclaim 를 통한 Synchronously  페이지 할당 시간에 할당 작업은 zone 구조체 인스턴스의 freelist 멤버에 등록했던 페이지를 즉시 받게되므로 수행 중이던 작업을 바로 다시 작업 할 수 있습니다. 직간접적으로 비즈니스 로직(메모리 할당한 프로그램)을 실행한다고 봅니다. (메모리 할당 오버헤드가 거의 없음)
+ kswapd 를 통한 Asynchronously  페이지 할당을 작업을 확실히 끝 마치기 직전에, 사용 가능한 페이지가 zone low watermark 에 도달한지 확인하고 만약 그렇다면 kswapd 가 깨어납니다.</description>
+      </item>
+      
     
   </channel>
 </rss>

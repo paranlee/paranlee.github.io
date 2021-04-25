@@ -482,4 +482,14 @@
     <changefreq>weekly</changefreq>
   </url>
   
+  <url>
+    <loc>https://paranlee.github.io/data-pipeline/supercluster/supercluster/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <url>
+    <loc>https://paranlee.github.io/linux-kernel/page-replacement/page-replacement-asynchronously-synchronously/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  
 </urlset>
